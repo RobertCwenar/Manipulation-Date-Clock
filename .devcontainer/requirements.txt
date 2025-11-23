@@ -21,8 +21,7 @@ pillow
 pip                
 pyparsing          
 python-dateutil    
-pytz               
-pywin32            
+pytz                        
 requests           
 rethinkdb          
 setuptools         
